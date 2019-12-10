@@ -1,0 +1,5 @@
+*.pyc
+*-checkpoint.ipynb
+*.gl/
+Week6/image_test_data/
+Week6/image_train_data/
